@@ -1,0 +1,203 @@
+{
+  "employees": [
+    {
+      "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+      "firstName": "James",
+      "lastName": "Smith"
+    },
+    {
+      "id": "7eeba422-5717-4026-8e74-e517576e26bd",
+      "firstName": "Mary",
+      "lastName": "Miller"
+    },
+    {
+      "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+      "firstName": "Linda",
+      "lastName": "Jones"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "77af111b-4177-4774-af57-36df9053e1df",
+      "amount": 95.22,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "Social Media Ads Inc",
+      "date": "8/5/2022",
+      "approved": true
+    },
+    {
+      "id": "6e6698a6-972e-4d6e-a491-0e738616e75a",
+      "amount": 613.19,
+      "employee": {
+        "id": "7eeba422-5717-4026-8e74-e517576e26bd",
+        "firstName": "Mary",
+        "lastName": "Miller",
+        "extras": 1
+      },
+      "merchant": "Air New York",
+      "date": "7/30/2022",
+      "approved": false
+    },
+    {
+      "id": "af9bb7ed-36c4-4151-af07-7c319ded1363",
+      "amount": 450.01,
+      "employee": {
+        "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+        "firstName": "Linda",
+        "lastName": "Jones",
+        "extras": 3
+      },
+      "merchant": "Go Go Taxi",
+      "date": "7/30/2022",
+      "approved": false
+    },
+    {
+      "id": "853c7ee7-3c1f-4b12-8354-dc462367f8ba",
+      "amount": 37.36,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "Stardusk Coffee",
+      "date": "8/1/2022",
+      "approved": true
+    },
+    {
+      "id": "05c21eca-4995-4305-871b-c4ec705579c3",
+      "amount": 496.28,
+      "employee": {
+        "id": "7eeba422-5717-4026-8e74-e517576e26bd",
+        "firstName": "Mary",
+        "lastName": "Miller",
+        "extras": 1
+      },
+      "merchant": "Halton Hotel",
+      "date": "8/6/2022",
+      "approved": true
+    },
+    {
+      "id": "459965f2-fa11-41e2-a14d-9e572333e52d",
+      "amount": 666.1,
+      "employee": {
+        "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+        "firstName": "Linda",
+        "lastName": "Jones",
+        "extras": 3
+      },
+      "merchant": "Gas-n-go",
+      "date": "8/1/2022",
+      "approved": false
+    },
+    {
+      "id": "da5a47d6-5c63-465e-9d44-65a611257ba4",
+      "amount": 294.45,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "T-Phone",
+      "date": "8/1/2022",
+      "approved": false
+    },
+    {
+      "id": "59dd50c6-1e6c-4a33-b9ab-73f138d3313f",
+      "amount": 229.15,
+      "employee": {
+        "id": "7eeba422-5717-4026-8e74-e517576e26bd",
+        "firstName": "Mary",
+        "lastName": "Miller",
+        "extras": 1
+      },
+      "merchant": "Parking On Site",
+      "date": "7/30/2022",
+      "approved": false
+    },
+    {
+      "id": "990277f7-12ba-4bf5-af0e-a8e16d6886f3",
+      "amount": 249.19,
+      "employee": {
+        "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+        "firstName": "Linda",
+        "lastName": "Jones",
+        "extras": 3
+      },
+      "merchant": "Taxi Inc",
+      "date": "8/4/2022",
+      "approved": true
+    },
+    {
+      "id": "4f941d9c-37cc-4393-ba10-c7e0d405a724",
+      "amount": 276.22,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "Raltz Hotel",
+      "date": "8/5/2022",
+      "approved": true
+    },
+    {
+      "id": "33c9eb97-7643-4143-a161-cea569f4b613",
+      "amount": 202.86,
+      "employee": {
+        "id": "7eeba422-5717-4026-8e74-e517576e26bd",
+        "firstName": "Mary",
+        "lastName": "Miller",
+        "extras": 1
+      },
+      "merchant": "Gas On The Road",
+      "date": "8/1/2022",
+      "approved": true
+    },
+    {
+      "id": "82bfd411-fc03-4f74-90cf-b273b0867c7b",
+      "amount": 295.9,
+      "employee": {
+        "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+        "firstName": "Linda",
+        "lastName": "Jones",
+        "extras": 3
+      },
+      "merchant": "Food Hall",
+      "date": "7/29/2022",
+      "approved": true
+    },
+    {
+      "id": "c8296067-2131-4a2c-93a5-826a6d8942c2",
+      "amount": 492.91,
+      "employee": {
+        "id": "89bd9324-04e0-4cd6-aa27-981508bd219f",
+        "firstName": "James",
+        "lastName": "Smith",
+        "extras": 2
+      },
+      "merchant": "Pizza Place Restaurant",
+      "date": "7/29/2022",
+      "approved": true
+    },
+    {
+      "id": "870c552f-5833-4060-9233-eb98f514a917",
+      "amount": 84.82,
+      "employee": {
+        "id": "6e88529c-6739-4f1b-bea0-02afdd336bb3",
+        "firstName": "Linda",
+        "lastName": "Jones",
+        "extras": 3
+      },
+      "merchant": "Tasty Restaurant",
+      "date": "8/3/2022",
+      "approved": false
+    }
+  ]
+}
