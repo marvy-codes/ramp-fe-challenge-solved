@@ -63,7 +63,7 @@ export function InputSelect<TItem>({
                 toggleProps.onClick(event)
               }}
             >
-              {inputValue}
+              {inputValue} 
             </div>
 
             <div
