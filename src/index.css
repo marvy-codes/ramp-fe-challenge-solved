@@ -149,8 +149,8 @@ hr.RampBreak--l {
   content: " ";
   width: 100%;
   height: 100%;
-  border-color: #d94b03;
-  background-color: #d94b03;
+  border-color: var(--color-destructive);
+  background-color: var(--color-destructive);
 }
 
 
