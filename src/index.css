@@ -145,15 +145,6 @@ hr.RampBreak--l {
   background-color: var(--color-constructive);
 }
 
-.RampInputCheckbox--label-Notchecked:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  border-color: var(--color-destructive);
-  background-color: var(--color-destructive);
-}
-
-
 .RampInputCheckbox--input {
   opacity: 0;
   transform: translate(-16px);
